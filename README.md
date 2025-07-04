@@ -44,9 +44,9 @@ This project showcases a responsive frontend built using React. It includes prop
 
 ## Screenshots
 
-| Home Page | Detail Page |
-|:---------:|:-----------:|
-| ![Home Screenshot](src/assets/1.jpg) | ![Detail Screenshot](src/assets/2.jpg) |![Detail Screenshot](src/assets/3.jpg) |![Detail Screenshot](src/assets/4.jpg) |![Detail Screenshot](src/assets/5.jpg) |![Detail Screenshot](src/assets/6.jpg) |![Detail Screenshot](src/assets/7.jpg) |
+| Home Page | Detail Page | Detail Page | Detail Page | Detail Page | Detail Page | Detail Page |
+|:---------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
+| ![Home Screenshot](r-project/src/assets/1.jpg) | ![Detail Screenshot](r-project/src/assets/2.jpg) |![Detail Screenshot](r-project/src/assets/3.jpg) |![Detail Screenshot](r-project/src/assets/4.jpg) |![Detail Screenshot](r-project/src/assets/5.jpg) |![Detail Screenshot](r-project/src/assets/6.jpg) |![Detail Screenshot](r-project/src/assets/7.jpg) |
 
 ---
 
